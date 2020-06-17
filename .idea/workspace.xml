@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="110330e8-42ac-4930-909a-58d2673f4585" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3_API_29" />
+  <component name="ProjectId" id="1d7EGuAKgknmgdKof6JToyz990m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nourhan.hassan\AndroidStudioProjects\flutter_app\lib\ui" />
+      <recent name="C:\Users\nourhan.hassan\AndroidStudioProjects\flutter_app\lib" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="110330e8-42ac-4930-909a-58d2673f4585" name="Default Changelist" comment="" />
+      <created>1591767646347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591767646347</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="352" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1591828291266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="352" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1591828291266" />
+    <state x="452" y="104" key="FileChooserDialogImpl" timestamp="1592071695818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="452" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1592071695818" />
+    <state x="102" y="0" width="916" height="728" key="SettingsEditor" timestamp="1591913827745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="102" y="0" width="916" height="728" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1591913827745" />
+    <state x="45" y="244" width="1146" height="435" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1591830645538">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="45" y="244" width="1146" height="435" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.728@0.0.1366.728" timestamp="1591830645538" />
+    <state x="367" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1592071316933">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="367" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1592071316933" />
+    <state x="460" y="76" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1592033991344">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="460" y="76" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1592033991344" />
+  </component>
+</project>
